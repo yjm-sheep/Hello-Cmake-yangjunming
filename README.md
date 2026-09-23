@@ -9,7 +9,7 @@
 ```bash
 cmake -S . -B build
 cmake --build build
-./build/hello
+./build/first
 ```
 
 ## 预期输出
